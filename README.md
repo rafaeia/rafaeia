@@ -6,6 +6,5 @@
 Here are some ideas to get you started:
 
 I’m currently learning HTML, CSS, JavaScript and Python.
-How to reach me: rafaelasvieirasss@gmail.com
 
 -->
